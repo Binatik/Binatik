@@ -135,4 +135,4 @@ html {
 }
 ``` 
 #### Посмотреть: 
-[![](https://hostadvice.com/wp-content/uploads/2017/04/codebox-logo-e1595399885122.png)](https://pandao.github.io/editor.md/examples/images/7.jpg "Открыть в редакторе.")
+[![](https://hostadvice.com/wp-content/uploads/2017/04/codebox-logo-e1595399885122.png)](https://codesandbox.io/s/htmlcss-dso9f?file=/index.html "Открыть в редакторе.")
