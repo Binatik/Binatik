@@ -41,7 +41,7 @@ Junior WEB-разработчик, Россия.
 </html>
 ``` 
 
-####CSS - first level
+#### CSS - first level
 ```css
 * {
     scroll-behavior: smooth;
@@ -73,7 +73,7 @@ html {
 }
 ```  
  
-####CSS - second level
+#### CSS - second level
 ```css
 .page__product {
     padding: 50px 0;
@@ -111,7 +111,7 @@ html {
 }
 ``` 
 
-####CSS - third level
+#### CSS - third level
 ```css
 .product__item {
     position: relative;
@@ -134,5 +134,5 @@ html {
     border-top-right-radius: 5px;
 }
 ``` 
-####Посмотреть: 
+#### Посмотреть: 
 [![](https://hostadvice.com/wp-content/uploads/2017/04/codebox-logo-e1595399885122.png)](https://pandao.github.io/editor.md/examples/images/7.jpg "Открыть в редакторе.")
