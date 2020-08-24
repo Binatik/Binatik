@@ -3,9 +3,9 @@ Junior WEB-разработчик, Россия.
 
 [TOCM]
 
-#Skills 
-###html/css
-####HTML
+# Skills 
+### html/css
+#### HTML
 ```html
 <!DOCTYPE html>
 <html>
