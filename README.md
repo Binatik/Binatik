@@ -135,4 +135,49 @@ html {
 }
 ``` 
 #### Посмотреть: 
-[![](https://hostadvice.com/wp-content/uploads/2017/04/codebox-logo-e1595399885122.png)](https://codesandbox.io/s/htmlcss-dso9f?file=/index.html "Открыть в редакторе.")
+[![](https://hostadvice.com/wp-content/uploads/2017/04/codebox-logo-e1595399885122.png)](https://codesandbox.io/s/htmlcss-dso9f?file=/index.html "Открыть в редакторе.") 
+
+### JavaScript
+#### Array() 
+```js
+  return [{
+          subtitle: 'JavaScript - Skills',
+          number: 25000
+      },
+  ];
+```  
+
+#### Object()
+```js
+const render = {  
+
+}    
+```  
+
+#### jsx
+```js
+const render = {  
+ getCard(subtitle, number) { 
+      return `  
+      <h3 class="product__subtitle">${subtitle}</h3>
+      <img src="#" alt="test">
+      <p class="product__text">Зарплата от ${number}</p>`;
+  },
+}  
+```
+
+#### function
+```js
+const render = {  
+  getMarkup(list = []) {
+      const DeepTree = list.map(item => this.getCard(
+          item.subtitle,
+          item.number
+      ))
+      cards.innerHTML = DeepTree;
+  }
+} 
+render.getMarkup(getData());   
+``` 
+#### Посмотреть: 
+[![](https://hostadvice.com/wp-content/uploads/2017/04/codebox-logo-e1595399885122.png)](https://codesandbox.io/s/javascript-wcs5d?file=/index.html "Открыть в редакторе.") 
