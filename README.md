@@ -150,22 +150,23 @@ const Test = { test: "0", test: "1", test: "2" }; //Просто
 const Color = [{ red: "Red" }, { green: "Green" }, { test: "Test" }]; //Обычно
 const Product = [
   {
-    title: "Шоколадное кофе",
-    price: 57,
+    title: "Test - 1",
+    price: 1,
   },
   {
-    title: "Ванильное кофе",
-    price: 39,
+    title: "Test - 2",
+    price: 2,
   },
   {
-    title: "Черное кофе",
-    price: 32,
+    title: "Test - 3",
+    price: 3,
   },
   {
-    title: "Черное кофе",
-    price: 32,
+    title: "Test - 4",
+    price: 4,
   },
 ]; //Сложно
+
 ```  
 
 #### jsx
