@@ -140,44 +140,85 @@ html {
 ### JavaScript
 #### Array() 
 ```js
-  return [{
-          subtitle: 'JavaScript - Skills',
-          number: 25000
-      },
-  ];
+const elements = ["El1", "El2", "El3"]; //Просто
+const numbers = [1, [5, [9, 8, 7], 7], 3]; //Сложно
 ```  
 
 #### Object()
 ```js
-const render = {  
-
-}    
+const Test = { test: "0", test: "1", test: "2" }; //Просто
+const Color = [{ red: "Red" }, { green: "Green" }, { test: "Test" }]; //Обычно
+const Product = [
+  {
+    title: "Шоколадное кофе",
+    price: 57,
+  },
+  {
+    title: "Ванильное кофе",
+    price: 39,
+  },
+  {
+    title: "Черное кофе",
+    price: 32,
+  },
+  {
+    title: "Черное кофе",
+    price: 32,
+  },
+]; //Сложно
 ```  
 
 #### jsx
-```js
-const render = {  
- getCard(subtitle, number) { 
-      return `  
-      <h3 class="product__subtitle">${subtitle}</h3>
-      <img src="#" alt="test">
-      <p class="product__text">Зарплата от ${number}</p>`;
-  },
-}  
+```js  
+//Уточнение: Пример написан на языке javaScript - шаблонные строки.
+` 
+    <h3 class="product__subtitle">${subtitle}</h3>
+    <img src="#" alt="test">
+    <p class="product__text">Зарплата от ${number}</p> 
+`; 
 ```
 
 #### function
 ```js
-const render = {  
-  getMarkup(list = []) {
-      const DeepTree = list.map(item => this.getCard(
-          item.subtitle,
-          item.number
-      ))
-      cards.innerHTML = DeepTree;
+//Function Expression
+function sum(a, b) {
+  return a + b;
+} 
+
+//Function Declaration
+sum = (a, b) => a + b;
+
+
+//Function callback
+function sum(a, b) {
+  return function(){ 
+    a+b
   }
 } 
-render.getMarkup(getData());   
-``` 
-#### Посмотреть: 
-[![](https://hostadvice.com/wp-content/uploads/2017/04/codebox-logo-e1595399885122.png)](https://codesandbox.io/s/javascript-wcs5d?file=/index.html "Открыть в редакторе.") 
+ 
+/* 
+Примечание callback - это функция обратного вызова.  
+Такая функция может быть вызвана в другой функции.  
+На сегодня  javaScript  без callback может умереть.  
+Многий функционал освоен именно на них.  
+Для примера мы можем взять цикл forEach,  
+куда обязательно нужно передавать callback.
+*/
+```  
+#### inline function + callback
+```js
+/* 
+Примечание - reduce необходимо установить параметр в качестве 0, 
+если вы пытаетесь сложить свойство у ключей допустим.  
+Опустите данный параметр, если массив обычный,  
+типа [1,2,3,4,5] - подсказка, вы можете таким образом получить сумму данного массива.
+*/
+arr.reduce((acc, current) => acc + current, 0); //acc = 0;  
+arr.forEach((element, i) => element + '' + i); 
+arr.sort((a, b) => a-b);  
+/* 
+Примечание - Некоторые функции типа  map возвращают результат в новый массив,  
+при этом состояние  родителя не изменилось 
+*/ 
+const newArr = arr.map((current,i) => current + i)
+```  
