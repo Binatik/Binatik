@@ -222,4 +222,54 @@ arr.sort((a, b) => a-b);
 при этом состояние  родителя не изменилось 
 */ 
 const newArr = arr.map((current,i) => current + i)
+```   
+
+#### async + promise
+```js
+const promise = new Promise((resolve, reject) => {
+  resolve("Этот текст вернет resolve - т.е promise");
+  reject("Если произошла ошибка");
+});
+
+/*       
+Примечание - then() - Это метод.  
+Подсказка -  возвращает Promise.  
+Уточнее: then() является одним из методов экземпляра класса Promise. 
+*/
+promise.then((promise) => console.log(promise));
+promise.then((promisetext) => console.log(promisetext + "text"));
+promise.then((promisetextContent) =>
+  console.log(promisetextContent + "textContent")
+); 
+
+//Function
+let global;
+function getData(text) {
+  return new Promise((resolve, reject) => {
+    resolve(text);
+    reject("Если произошла ошибка");
+  });
+}
+
+/*
+Примечание - Функция getData возвращает экземпляр Promise. 
+Подсказка - вам доступны у данной функции все методы, что и у примера выше  
+Внимание - Вам необходимо вернуть состояние в данном примере,  
+если этого не сделать, вернется undefined.
+*/
+getData("Этот текст вернет resolve - т.е promise") 
+  .then((test) => {
+    global = test;
+    console.log(global);
+    //Возможный вызов функции. 
+    return global;
+  })
+  .then((testNumber2) => {
+    global = testNumber2 + 'NewPromise';
+    console.log(global);
+    //Возможный вызов функции.
+  })  
+/* 
+Уточнее - Вернуть состояние можно как значение или как new Promise((resolve, reject) 
+*/
 ```  
