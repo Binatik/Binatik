@@ -88,7 +88,7 @@ class Popup {
             target.classList.remove('modal-open');
         }
 
-        if (target.classList.contains('p-info__btn-close')){
+        if (target.classList.contains('btn-close')){
             this.popup.classList.remove('modal-open');
         }
     };
