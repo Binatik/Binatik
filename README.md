@@ -135,7 +135,9 @@ export function Navigation() {
         </React.Fragment>
     )
 }
-```  
+```   
+
+Don't judge me harshly, I'm still just learning, but with each new day I learn something more and develop as a specialist in the front-end.
 
 
 
