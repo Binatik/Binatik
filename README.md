@@ -18,7 +18,7 @@ Working with javaScript. Learning the REACT framework and VUE.
 Experience working with react in conjunction with the next framework on react for 
 Server Side Rendering 
 
-### Other skill 
+# Other skill 
 
 
 
