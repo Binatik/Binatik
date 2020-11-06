@@ -64,7 +64,9 @@ function getPosts(arr){
 
 getPosts(posts)
 
-```    
+```     
+
+
  
 //Note: This code is a separate class that cannot function without an additional class. It needs to accept the modal window itself.
 ```js
