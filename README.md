@@ -18,6 +18,8 @@ Working with javaScript. Learning the REACT framework and VUE.
 Experience working with react in conjunction with the next framework on react for 
 Server Side Rendering 
 
+typeScript skills.
+
 # Other skill   
 
 Knowledge of photoshop, the git system in particular gitHub Desktop.  
@@ -25,8 +27,6 @@ Knowledge of photoshop, the git system in particular gitHub Desktop.
 Simple skills when working with python.  
 
 Experience in developing gulp, in particular webpack. 
-
-simple typeScript skills.
 
 
 
