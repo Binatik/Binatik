@@ -26,7 +26,17 @@ Knowledge of photoshop, the git system in particular gitHub Desktop.
 
 Simple skills when working with python.  
 
-Experience in developing gulp, in particular webpack. 
+Experience in developing gulp, in particular webpack.  
+
+# Code 
+ 
+//This code was written in this editor by hand. 
+
+function getArr(...arg){ 
+ return arg.map(element => element+element) 
+} 
+
+
 
 
 
