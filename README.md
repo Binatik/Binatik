@@ -24,7 +24,9 @@ Knowledge of photoshop, the git system in particular gitHub Desktop.
 
 Simple skills when working with python.  
 
-Experience in developing gulp, in particular webpack.
+Experience in developing gulp, in particular webpack. 
+
+simple typeScript skills.
 
 
 
