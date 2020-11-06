@@ -93,8 +93,49 @@ class Popup {
         }
     };
 }
-```  
+```   
+```js 
+Note: this code was written using an editor and is based on a third-party  
+functional style component that cannot function without next
 
+import Link from "next/link";
+import React from "react";
+
+const list =[
+    {
+        id: 1,
+        title: 'Home',
+        url: '/'
+    },
+
+    {
+        id: 2,
+        title: 'Skills',
+        url: '/skills'
+    },
+
+    {
+        id: 3,
+        title: 'Portfolio',
+        url: '/portfolio'
+    },
+];
+
+
+export function Navigation() {
+    return (
+        <React.Fragment>
+            <nav>
+                {list.map(({url, title, id}) =>
+                    <Link href={url} key={id}>
+                        <a>{title}</a>
+                    </Link>)
+                }
+            </nav>
+        </React.Fragment>
+    )
+}
+```  
 
 
 
