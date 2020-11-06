@@ -6,7 +6,8 @@ Junior WEB developer, Russia.
 # Skills 
 ### Imposer 
 
-Layout of simple / medium-sized sites for more than a year. Easy work with javaScript for less than a year.
+Layout of simple / medium-sized sites for more than a year. Easy work with javaScript for less than a year. 
+Bootstrap framework and Sass preprocessor.
  
 ### Front-end logic 
 
