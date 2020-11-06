@@ -33,9 +33,36 @@ Experience in developing gulp, in particular webpack.
 //This code was written in this editor by hand.  
 
 ```js
-function getArr(...arg){ 
- return arg.map(element => element+element) 
+function getArr(...arg){
+    return arg.map(element => element+element)
 } 
+
+```   
+
+```js
+const posts = [
+
+    {
+        id: 1,
+        author: 'Binatik',
+        text: 'This id will not show the function, because the property is an empty string.',
+        photos: '',
+    },
+
+    {
+        id: 2,
+        author: 'Binatik',
+        test: 'This id will be shown by the function.',
+        photos: '/url/photos',
+    },
+
+]
+
+function getPosts(arr){
+    return arr.filter(({ photos }) => (photos.length !== 0));
+}
+
+getPosts(posts)
 
 ```  
 
