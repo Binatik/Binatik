@@ -64,6 +64,30 @@ function getPosts(arr){
 
 getPosts(posts)
 
+```    
+
+```js
+class Popup {
+    constructor(popup) {
+        this.popup = popup;
+        this.popup.addEventListener('click', (event) => this.modalClose(event));
+    }
+
+    modalOpen(){
+        this.popup.classList.add('modal-open');
+    };
+
+    modalClose(e){
+        const target = e.target;
+        if (target.classList.contains('modal')){
+            target.classList.remove('modal-open');
+        }
+
+        if (target.classList.contains('p-info__btn-close')){
+            this.popup.classList.remove('modal-open');
+        }
+    };
+}
 ```  
 
 
