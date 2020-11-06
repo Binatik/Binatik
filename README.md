@@ -10,6 +10,16 @@ Layout of simple / medium-sized sites for more than a year. Easy work with javaS
  
 ### Front-end logic 
 
-Working with javaScript. Experience with the REACT framework and VUE.
+Working with javaScript. Learning the REACT framework and VUE.
+
+### SSR/SPA   
+ 
+Experience working with react in conjunction with the next framework on react for 
+Server Side Rendering 
+
+### Other skill 
+
+
+
 
 
