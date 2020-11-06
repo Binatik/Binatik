@@ -30,11 +30,16 @@ Experience in developing gulp, in particular webpack.
 
 # Code 
  
-//This code was written in this editor by hand. 
+//This code was written in this editor by hand.  
 
+```js
 function getArr(...arg){ 
  return arg.map(element => element+element) 
 } 
+
+```  
+
+
 
 
 
