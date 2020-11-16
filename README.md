@@ -2,8 +2,6 @@
 Pre - Junior WEB developer, Russia.
 
 [TOCM]
- 
-### Hard skills:
 
 # Hard skills: 
 ### Layout designer.  
