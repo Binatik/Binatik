@@ -28,7 +28,14 @@ Simple skills when working with python.
 
 Experience in developing gulp, in particular webpack.  
 
-Don't judge me harshly, I'm still just learning, but with each new day I learn something more and develop as a specialist in the front-end.
+Don't judge me harshly, I'm still just learning, but with each new day I learn something more and develop as a specialist in the front-end. 
+
+# Hard skills: 
+### Layout designer.  
+
+- [x] HTML
+- [x] CSS
+    - [x] SCSS
 
 
 
