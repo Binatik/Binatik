@@ -21,4 +21,4 @@ Pre - Junior WEB developer, Russia.
 - [x] HTML, CSS. 
 
 #### Code: [link](https://github.com/Binatik/Code)
-##### I may know many different technologies, but I have little experience with them."
+##### I may know many different technologies, but I have little experience with them.
