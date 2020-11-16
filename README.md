@@ -10,7 +10,9 @@ Pre - Junior WEB developer, Russia.
 - [x] React, Next.  
 - [x] VueJS.
 - [x] Webpack, Gulp. 
-- [x] Javascript, Typescript, NodeJS. 
+- [x] Javascript, Typescript, NodeJS.  
+
+* Worked with nodeJS only for building gulp and webpack
 
 ### Layout designer.  
 
