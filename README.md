@@ -16,4 +16,4 @@ Junior WEB developer, Russia.
 - [x] Bootstrap.
 - [x] HTML, CSS.  
 
-#####I may know a lot of technology, but I don't have much experience with it.
+##### I may know a lot of technology, but I don't have much experience with it.
