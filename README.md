@@ -6,8 +6,9 @@ Pre - Junior WEB developer, Russia.
 # Hard skills: 
 
 ### Frontend. 
-
-- [x] React, Next.  
+ 
+- [ ] Next.  
+- [x] React
 - [ ] VueJS.
 - [x] Webpack, Gulp. 
 - [x] Javascript, Typescript, NodeJS.  
