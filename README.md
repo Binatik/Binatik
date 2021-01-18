@@ -8,9 +8,11 @@ Pre - Junior WEB developer, Russia.
 ### Frontend. 
  
 - [ ] Next.  
-- [x] React
+- [x] React 
+
 - [ ] VueJS.
-- [x] Webpack, Gulp.  
+- [x] Webpack, Gulp.   
+
 - [ ] Typescript+  
 - [x] Javascript, Typescript, NodeJS.  
 
