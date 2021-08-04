@@ -1,5 +1,5 @@
 # Serega Mangushev  
-Pre - Junior WEB developer, Russia.
+Junior WEB developer, Russia.
 
 [TOCM]
 
