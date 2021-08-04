@@ -32,5 +32,5 @@ Junior WEB developer, Russia.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binatik&layout=compact&theme=radical&custom_title=TOP)
 
-Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). The values are calculated by using the cumulative distribution function using commits, contributions, issues, stars, pull requests, followers, and owned repositories.
+##### Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). The values are calculated by using the cumulative distribution function using commits, contributions, issues, stars, pull requests, followers, and owned repositories.
  
