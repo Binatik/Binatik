@@ -26,7 +26,8 @@ Junior WEB developer, Russia.
 - [x] Jira.
 
 #### Code: [link](https://github.com/Binatik/Code)
-##### I may know many different technologies, but I have little experience with them. 
-##### frontEnd since 2019.
-  
+##### I may know many different technologies, but I have little experience with them.  
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Binatik&show_icons=true&theme=radical)
+##### frontEnd since 2019.
+ 
