@@ -6,15 +6,12 @@ Pre - Junior WEB developer, Russia.
 # Hard skills: 
 
 ### Frontend. 
- 
-- [ ] Next.  
-- [x] React 
+  
+- [x] React, Redux 
 
-- [ ] VueJS.
-- [x] Webpack, Gulp.   
+- [x] Webpack, Gulp, npm.   
 
-- [ ] Typescript+  
-- [x] Javascript, Typescript, NodeJS.  
+- [x] Javascript, NodeJS.  
 
 > Worked with nodeJS only for building gulp and webpack.
 
