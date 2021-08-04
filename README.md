@@ -27,7 +27,10 @@ Junior WEB developer, Russia.
 
 #### Code: [link](https://github.com/Binatik/Code)
 ##### I may know many different technologies, but I have little experience with them.  
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Binatik&show_icons=true&theme=radical)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Binatik&show_icons=true&theme=radical)
-##### frontEnd since 2019.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binatik&layout=compact&theme=radical&custom_title=TOP)
+
+Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). The values are calculated by using the cumulative distribution function using commits, contributions, issues, stars, pull requests, followers, and owned repositories.
  
