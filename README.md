@@ -1,5 +1,5 @@
 # Serega Mangushev   
-[<img alt="Binatik" src="https://img.shields.io/badge/Junior WEB developer-000.svg?&style=for-the-badge&logo=vk&logoColor=fff" />][vk] 
+[<img alt="Binatik" src="https://img.shields.io/badge/WEB developer-000.svg?&style=for-the-badge&logo=vk&logoColor=fff" />][vk] 
 [<img alt="Binatik" src="https://img.shields.io/badge/Code-000.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=00FF00" />][code] 
 
 # Hard skills: 
