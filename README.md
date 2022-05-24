@@ -3,18 +3,19 @@
 [<img alt="Binatik" src="https://img.shields.io/badge/Code-000.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=00FF00" />][code] 
 
 # Hard skills: 
-<img alt="react" src="https://img.shields.io/badge/react-rgba(118,74,188,0).svg?&style=for-the-badge&logo=react&logoColor=5dd0f0&labelColor=rgba(118,74,188,0)" />&nbsp; 
-<img alt="redux" src="https://img.shields.io/badge/redux-rgba(118,74,188,0).svg?&style=for-the-badge&logo=redux&logoColor=764abc&labelColor=rgba(118,74,188,0)" />&nbsp;
+<img alt="react" src="https://img.shields.io/badge/react--rgba(118,74,188,0).svg?&style=for-the-badge&logo=react&logoColor=5dd0f0&labelColor=rgba(118,74,188,0)" />&nbsp; 
+<img alt="redux" src="https://img.shields.io/badge/redux--rgba(118,74,188,0).svg?&style=for-the-badge&logo=redux&logoColor=764abc&labelColor=rgba(118,74,188,0)" />&nbsp;
+<img alt="styled-components" src="https://img.shields.io/badge/styled--rgba(118,74,188,0).svg?&style=for-the-badge&logo=styledComponents&logoColor=764abc&labelColor=rgba(118,74,188,0)" />&nbsp;
 ---
 
-<img alt="webpack" src="https://img.shields.io/badge/Webpack-rgba(118,74,188,0).svg?&style=for-the-badge&logo=webpack&logoColor=7c9fdf&labelColor=rgba(118,74,188,0)" />&nbsp; 
-<img alt="gulp" src="https://img.shields.io/badge/Gulp-rgba(118,74,188,0).svg?&style=for-the-badge&logo=gulp&logoColor=da4647&labelColor=rgba(118,74,188,0)" />&nbsp; 
-<img alt="NPM" src="https://img.shields.io/badge/NPM-rgba(118,74,188,0).svg?&style=for-the-badge&logo=npm&logoColor=da4647&labelColor=rgba(118,74,188,0)" />&nbsp; 
+<img alt="webpack" src="https://img.shields.io/badge/Webpack--rgba(118,74,188,0).svg?&style=for-the-badge&logo=webpack&logoColor=7c9fdf&labelColor=rgba(118,74,188,0)" />&nbsp; 
+<img alt="gulp" src="https://img.shields.io/badge/Gulp--rgba(118,74,188,0).svg?&style=for-the-badge&logo=gulp&logoColor=da4647&labelColor=rgba(118,74,188,0)" />&nbsp; 
+<img alt="NPM" src="https://img.shields.io/badge/NPM--rgba(118,74,188,0).svg?&style=for-the-badge&logo=npm&logoColor=da4647&labelColor=rgba(118,74,188,0)" />&nbsp; 
 --- 
 
-<img alt="js" src="https://img.shields.io/badge/JAVASCRIPT-rgba(118,74,188,0).svg?&style=for-the-badge&logo=javascript&logoColor=f7e01d&labelColor=rgba(118,74,188,0)" />&nbsp;
+<img alt="js" src="https://img.shields.io/badge/JAVASCRIPT--rgba(118,74,188,0).svg?&style=for-the-badge&logo=javascript&logoColor=f7e01d&labelColor=rgba(118,74,188,0)" />&nbsp;
 
-<img alt="js" src="https://img.shields.io/badge/git-rgba(118,74,188,0).svg?&style=for-the-badge&logo=git&logoColor=f7e01d&labelColor=rgba(118,74,188,0)" />&nbsp;
+<img alt="js" src="https://img.shields.io/badge/git--rgba(118,74,188,0).svg?&style=for-the-badge&logo=git&logoColor=f7e01d&labelColor=rgba(118,74,188,0)" />&nbsp;
 
 ##### I may know many different technologies, but I have little experience with them.  
  
