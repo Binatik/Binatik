@@ -14,6 +14,8 @@
 
 <img alt="js" src="https://img.shields.io/badge/JAVASCRIPT-rgba(118,74,188,0).svg?&style=for-the-badge&logo=javascript&logoColor=f7e01d&labelColor=rgba(118,74,188,0)" />&nbsp;
 
+<img alt="js" src="https://img.shields.io/badge/git-rgba(118,74,188,0).svg?&style=for-the-badge&logo=git&logoColor=f7e01d&labelColor=rgba(118,74,188,0)" />&nbsp;
+
 ##### I may know many different technologies, but I have little experience with them.  
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Binatik&show_icons=true&theme=radical)  
