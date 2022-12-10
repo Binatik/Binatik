@@ -10,7 +10,14 @@ ___
 
 ❸ За спиной обучение в GeekBrains, Roadmap от Владилена Минина и review.
 
-Навыки работы с ```Redux, Redux Toolkit, git, github, webpack, UI-kit, REST-API, React Router, Styled, Luxon, Task Manager (Notion)```
+`Навыки работы`
+--
+```js
+const Kit = MUI, Bootstrap
+const Framework = React, Next
+const Libraries = Redux, React Router, Redux, Redux Toolkit, Styled, Luxon, React Transition Group
+const Control = Git, Github, Gitlab
+```
 
 ### Статистика
 
