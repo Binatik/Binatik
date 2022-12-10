@@ -13,10 +13,10 @@ ___
 `Навыки работы`
 --
 ```js
-const Kit = MUI, Bootstrap
-const Framework = React, Next
-const Libraries = Redux, React Router, Redux, Redux Toolkit, Styled, Luxon, React Transition Group
-const Control = Git, Github, Gitlab
+const kits = ['MUI', 'Bootstrap']
+const frameworks = ['React', 'Next']
+const libraries = ['Redux', 'React Router', 'Redux Toolkit', 'Styled', 'Luxon', 'React Transition Group']
+const controls = ['Git', 'Github', 'Gitlab']
 ```
 
 ### Статистика
