@@ -27,3 +27,5 @@ const controls = ['Git', 'Github', 'Gitlab']
 
 [vk]: https://vk.com/id269791339 
 [code]: https://github.com/Binatik/Code
+
+Найди меня на [leetcode](https://leetcode.com/Binatik/)
