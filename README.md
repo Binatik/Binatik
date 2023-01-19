@@ -12,7 +12,7 @@ ___
 
 `Навыки работы`
 --
-```js
+```ts
 const kits = ['MUI', 'Bootstrap'] as const
 const frameworks = ['React', 'Next'] as const
 const libraries = ['Redux', 'React Router', 'Redux Toolkit', 'Styled', 'Luxon', 'React Transition Group'] as const
