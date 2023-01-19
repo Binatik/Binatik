@@ -13,10 +13,17 @@ ___
 `Навыки работы`
 --
 ```js
-const kits = ['MUI', 'Bootstrap']
-const frameworks = ['React', 'Next']
-const libraries = ['Redux', 'React Router', 'Redux Toolkit', 'Styled', 'Luxon', 'React Transition Group']
-const controls = ['Git', 'Github', 'Gitlab']
+const kits = ['MUI', 'Bootstrap'] as const
+const frameworks = ['React', 'Next'] as const
+const libraries = ['Redux', 'React Router', 'Redux Toolkit', 'Styled', 'Luxon', 'React Transition Group'] as const
+const controls = ['Git', 'Github', 'Gitlab'] as const
+
+export interface {
+   kit: typeof kits[number]
+   frameworks: typeof framework[number]
+   libraries: typeof librarie[number]
+   control: typeof controls[number]
+}
 ```
 
 ### Статистика
