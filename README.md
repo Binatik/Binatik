@@ -30,6 +30,20 @@ export interface IHardSkills extends DetailedHTMLProps<HTMLAttributes<HTMLParagr
 [vk]: https://vk.com/id269791339 
 [code]: https://github.com/Binatik/Code
 
+
+### Примеры кода
+```ts
+			<p
+				style={{ fontWeight: weight }}
+				className={cn(styles.paragraph, className, {
+					[styles.small]: size === 'small',
+					[styles.medium]: size === 'medium',
+					[styles.large]: size === 'large',
+				})}>
+				{children}
+			</p>
+```
+
 ### Статистика
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Binatik&show_icons=true&theme=radical)  
