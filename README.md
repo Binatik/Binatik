@@ -18,7 +18,7 @@ const frameworks = ['React', 'Next'] as const
 const libraries = ['Redux', 'React Router', 'Redux Toolkit', 'Styled', 'Luxon', 'React Transition Group'] as const
 const controls = ['Git', 'Github', 'Gitlab'] as const
 
-export interface {
+export interface IHardSkills {
    kit: typeof kits[number]
    frameworks: typeof framework[number]
    libraries: typeof librarie[number]
