@@ -31,17 +31,17 @@ export interface IHardSkills extends DetailedHTMLProps<HTMLAttributes<HTMLParagr
 [code]: https://github.com/Binatik/Code
 
 
-### Примеры кода
+### Примеры React кода
 ```ts
-			<p
-				style={{ fontWeight: weight }}
-				className={cn(styles.paragraph, className, {
-					[styles.small]: size === 'small',
-					[styles.medium]: size === 'medium',
-					[styles.large]: size === 'large',
-				})}>
-				{children}
-			</p>
+	<p
+		style={{ fontWeight: weight }}
+		className={cn(styles.paragraph, className, {
+			[styles.small]: size === 'small',
+			[styles.medium]: size === 'medium',
+			[styles.large]: size === 'large',
+		})}>
+		{children}
+	</p>
 ```
 
 ### Статистика
