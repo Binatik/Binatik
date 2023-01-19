@@ -25,13 +25,6 @@ export interface IHardSkills {
    control: typeof controls[number]
 }
 ```
-
-### Статистика
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Binatik&show_icons=true&theme=radical)  
-
-
-
 [vk]: https://vk.com/id269791339 
 [code]: https://github.com/Binatik/Code
 
