@@ -28,4 +28,8 @@ export interface IHardSkills {
 [vk]: https://vk.com/id269791339 
 [code]: https://github.com/Binatik/Code
 
+### Статистика
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Binatik&show_icons=true&theme=radical)  
+
 Найди меня на [leetcode](https://leetcode.com/Binatik/)
