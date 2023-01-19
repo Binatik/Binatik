@@ -21,7 +21,7 @@ const controls = ['Git', 'Github', 'Gitlab']
 
 ### Статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Binatik&show_icons=true&theme=radical)  
+![GitHub stats](1)  
 
 
 
