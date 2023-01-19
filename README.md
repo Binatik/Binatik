@@ -33,15 +33,23 @@ export interface IHardSkills extends DetailedHTMLProps<HTMLAttributes<HTMLParagr
 
 ### Примеры React кода
 ```ts
-	<p
-		style={{ fontWeight: weight }}
-		className={cn(styles.paragraph, className, {
-			[styles.small]: size === 'small',
-			[styles.medium]: size === 'medium',
-			[styles.large]: size === 'large',
-		})}>
-		{children}
-	</p>
+	function Paragraph({ size, weight, children, className }: IParagraphProps) {
+	return (
+		<>
+			<p
+				style={{ fontWeight: weight }}
+				className={cn(styles.paragraph, className, {
+					[styles.small]: size === 'small',
+					[styles.medium]: size === 'medium',
+					[styles.large]: size === 'large',
+				})}>
+				{children}
+			</p>
+		</>
+	)
+	}
+
+	export { Paragraph }
 ```
 
 ### Статистика
