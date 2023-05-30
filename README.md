@@ -14,9 +14,6 @@ https://gilded-buttercream-38db70.netlify.app
 https://binatik.github.io/your-success
 SPA - React, React Transition Group, swiper, бегущая строка, поиск и router. Много стилей, отзывчивость, но минимализм и повседневная логика.
 
-https://stupendous-kangaroo-796d14.netlify.app
-Верстка на React с минимальным функционалом, опыт работы с датами.
-
 [vk]: https://vk.com/id269791339 
 [code]: https://github.com/Binatik/Code
 
