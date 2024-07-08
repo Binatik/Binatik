@@ -6,7 +6,7 @@
 #### [Блог](https://github.com/Binatik/real-blog)
 #### [CPS - Ремонт техники](https://github.com/Binatik/cps) //Боловство
 #### [Канбан-доска - Тестовое ВК](https://github.com/Binatik/kanban)  //ВК Test 2021 года.
-#### [Твой успех](https://github.com/Binatik/your-success) //Матери!
+#### [Твой успех](https://github.com/Binatik/your-success) //Для близкого человека!
 
 
 [vk]: https://vk.com/id269791339 
