@@ -1,13 +1,11 @@
 ## #Serega Mangushev
 
 ### 🅰Обо мне
-#### Пишу web проекты, ``Обучение в PurpleSchool, Kata``
+#### Пишу web проекты, ``Ранее Обучение в Kata. Middle FrontEnd Developer``
 
-#### [CPS - Ремонт техники](https://github.com/Binatik/cps) 
-#### [Канбан-доска - Тестовое ВК](https://github.com/Binatik/kanban)  
-#### [Редактор](https://gilded-buttercream-38db70.netlify.app) 
-#### [Твой успех](https://github.com/Binatik/your-success)
-#### [Гномоград - Сервер ласточка](https://github.com/Binatik/gnomomix-swallow)
+#### [CPS - Ремонт техники](https://github.com/Binatik/cps) //Боловство
+#### [Канбан-доска - Тестовое ВК](https://github.com/Binatik/kanban)  //ВК Test 2021 года.
+#### [Твой успех](https://github.com/Binatik/your-success) //Матери!
 
 
 [vk]: https://vk.com/id269791339 
