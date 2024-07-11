@@ -1,7 +1,7 @@
 ## #Serega Mangushev
 
 ### 🅰Обо мне
-#### Пишу web проекты, ``Ранее Обучение в Kata. Middle FrontEnd Developer``
+#### ``Ранее Обучение в Kata. Middle FrontEnd Developer``
 
 #### [Блог](https://github.com/Binatik/real-blog)
 #### [CPS - Ремонт техники](https://github.com/Binatik/cps) //Боловство
